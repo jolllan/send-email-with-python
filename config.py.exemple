@@ -1,0 +1,9 @@
+class mailConfig:
+
+    # on rentre les renseignements pris sur le site du fournisseur
+    smtp_address = 'smtp.gmail.com'
+    smtp_port = 465
+
+    # on rentre les informations sur notre adresse e-mail
+    email_address = 'example@gmail.com'
+    email_password = 'my_password'
